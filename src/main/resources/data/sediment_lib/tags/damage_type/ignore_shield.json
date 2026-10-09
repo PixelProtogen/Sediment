@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "freeze",
+    "on_fire",
+    "out_of_world",
+    "outside_border",
+    "starve",
+    "wither",
+    "bad_respawn_point",
+    "drown",
+    "dry_out",
+    "sediment_lib:bleed",
+    "sediment_lib:doom"
+  ]
+}

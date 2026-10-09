@@ -1,0 +1,23 @@
+{
+  "gamerule.category.sediment_lib": "Sediment",
+  "gamerule.displayStatusEffectAboveEntities": "Display Status Effect [Entities]",
+  "gamerule.displayStatusEffectAboveEntities.description": "Show status effect icons above non-player entities",
+  "gamerule.displayStatusEffectAbovePlayers": "Display Status Effect [Players]",
+  "gamerule.displayStatusEffectAbovePlayers.description": "Show status effect icons above players",
+  "gamerule.isStatusEffectBookEnabled": "Status Effect Book",
+  "gamerule.isStatusEffectBookEnabled.description": "Toggles if book is allowed to be used",
+
+  "key.sediment_lib.inspect_effects": "Inspect Status Effects",
+  "key.categories.sediment_lib": "Sediment",
+
+  "death.attack.sediment_lib.bleed": "%1$s bled out",
+  "death.attack.sediment_lib.bleed.player": "%1$s bled out while fighting %2$s",
+  "death.attack.sediment_lib.doom": "%1$s met their doom",
+  "death.attack.sediment_lib.doom.player": "%1$s was doomed by %2$s",
+
+  "item.sediment_lib.status_effect_book": "Status Effect Book",
+  "item.sediment_lib.status_effect_book.desc": "Allows to see previously discovered status effects.",
+  "item.sediment_lib.status_effect_book.unlocked": "Book Has Been Added To Inventory",
+  "item.sediment_lib.status_effect_book.disabled": "Book Is Disabled And Cannot Be Used",
+  "item.sediment_lib.status_effect_book.already_unlocked": "You Already Unlocked This"
+}
